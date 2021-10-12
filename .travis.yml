@@ -1,0 +1,5 @@
+---
+dist: focal
+language: python 
+arch: ppc64le
+echo "Hello"
